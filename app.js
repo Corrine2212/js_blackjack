@@ -1,5 +1,5 @@
 let player = {
-    name: "Connie",
+    name: "Player",
     chips: 200
     // sayHello: function() {
     //     console.log("howdy!");
